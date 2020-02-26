@@ -1,0 +1,4 @@
+pyserial
+numpy
+pygame
+pyqt5
